@@ -1,6 +1,6 @@
 ### Olá!
 
-Eu sou o Sandro Pereira,sou um Programador Front End,atualmente estou aprendendo e criando projetos com:
+Eu sou o Sandro Pereira,sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
